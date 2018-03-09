@@ -1,0 +1,90 @@
+County	Adultpatients	Minorpatients	totalPatients	County 	Population 16	patients per 10k pop	County	Caregiver	caregiversper10kpop	patientsdivcaregiv
+Unassigned	"1,328"	3	"1,331"	Marquette County	66435	200	Marquette	371	56	4
+Alcona	817	0	817	Antrim County	23144	353	Antrim	191	83	4
+Alger	270	0	270	Schoolcraft County	8001	337	Schoolcraft	60	75	5
+Allegan	998	0	998	Delta County	36202	276	Delta	221	61	5
+Alpena	"2,004"	1	"2,005"	Montcalm County	62974	318	Montcalm	443	70	5
+Antrim	339	1	340	Missaukee County	15102	225	Missaukee	74	49	5
+Arenac	"1,612"	2	"1,614"	Hillsdale County	45774	353	Hillsdale	347	76	5
+Baraga	716	0	716	Charlevoix County	26174	274	Charlevoix	152	58	5
+Barry	909	1	910	Wexford County	33163	274	Wexford	192	58	5
+Bay	823	0	823	Dickinson County	25535	322	Dickinson	170	67	5
+Benzie	"2,336"	6	"2,342"	Van Buren County	75223	311	Van Buren	482	64	5
+Berrien	642	0	642	Osceola County	23110	278	Osceola	132	57	5
+Branch	684	0	684	Arenac County	15122	452	Arenac	139	92	5
+Calhoun	478	0	478	Gogebic County	15243	314	Gogebic	97	64	5
+Cass	"2,318"	2	"2,320"	Tuscola County	53338	435	Tuscola	470	88	5
+Charlevoix	658	0	658	Menominee County	23281	283	Menominee	133	57	5
+Cheboygan	846	1	847	Kalkaska County	17263	491	Kalkaska	168	97	5
+Chippewa	454	0	454	Montmorency County	9173	495	Montmorency	90	98	5
+Clare	"1,488"	1	"1,489"	Barry County	59702	249	Barry	295	49	5
+Clinton	"4,880"	7	"4,887"	Jackson County	158460	308	Jackson	967	61	5
+Crawford	436	0	436	Lake County	11496	379	Lake	84	73	5
+Delta	"3,657"	5	"3,662"	Lenawee County	98504	372	Lenawee	705	72	5
+Dickinson	837	1	838	Otsego County	24470	342	Otsego	161	66	5
+Eaton	709	0	709	Benzie County	17572	403	Benzie	136	77	5
+Emmet	"2,907"	1	"2,908"	Allegan County	115548	252	Allegan	556	48	5
+Genesee	"4,118"	4	"4,122"	Berrien County	154010	268	Berrien	785	51	5
+Gladwin	"2,939"	7	"2,946"	Lapeer County	88340	333	Lapeer	552	62	5
+Gogebic	641	0	641	Houghton County	36555	175	Houghton	120	33	5
+Grand Traverse	"3,756"	6	"3,762"	Calhoun County	134386	280	Calhoun	704	52	5
+Gratiot	"1,054"	2	"1,056"	Sanilac County	41409	255	Sanilac	197	48	5
+Hillsdale	471	0	471	Iron County	11195	421	Iron	87	78	5
+Houghton	"1,368"	1	"1,369"	Cass County	51599	265	Cass	252	49	5
+Huron	"16,952"	23	"16,975"	Genesee County	408615	415	Genesee	"3,117"	76	5
+Ingham	"3,728"	2	"3,730"	Eaton County	109160	342	Eaton	680	62	5
+Ionia	"1,354"	1	"1,355"	Branch County	43427	312	Branch	245	56	6
+Iosco	425	1	426	Crawford County	13744	310	Crawford	77	56	6
+Iron	338	0	338	Presque Isle County	12762	265	Presque Isle	61	48	6
+Isabella	"1,478"	3	"1,481"	St. Joseph County	60853	243	Saint Joseph	264	43	6
+Jackson	293	0	293	Mackinac County	10820	271	Mackinac	52	48	6
+Kalamazoo	"1,526"	2	"1,528"	Newaygo County	47938	319	Newaygo	271	57	6
+Kalkaska	"5,097"	8	"5,105"	Kalamazoo County	261654	195	Kalamazoo	904	35	6
+Kent	760	0	760	Manistee County	24373	312	Manistee	134	55	6
+Keweenaw	200	0	200	Alger County	9219	217	Alger	35	38	6
+Lake	"2,569"	3	"2,572"	Shiawassee County	68554	375	Shiawassee	446	65	6
+Lapeer	"1,590"	2	"1,592"	Clinton County	77888	204	Clinton	275	35	6
+Leelanau	614	1	615	Ogemaw County	20904	294	Ogemaw	106	51	6
+Lenawee	122	0	122	Luce County	6358	192	Luce	21	33	6
+Livingston	827	0	827	Gladwin County	25122	329	Gladwin	142	57	6
+Luce	"1,006"	3	"1,009"	Clare County	30358	332	Clare	173	57	6
+Mackinac	175	0	175	Ontonagon County	5911	296	Ontonagon	30	51	6
+Macomb	723	2	725	Chippewa County	37724	192	Chippewa	124	33	6
+Manistee	"10,075"	7	"10,082"	Ingham County	288051	350	Ingham	"1,712"	59	6
+Marquette	374	0	374	Alcona County	10352	361	Alcona	63	61	6
+Mason	907	0	907	Roscommon County	23700	383	Roscommon	152	64	6
+Mecosta	"4,174"	8	"4,182"	Livingston County	188624	222	Livingston	697	37	6
+Menominee	"2,991"	4	"2,995"	Grand Traverse County	92084	325	Grand Traverse	499	54	6
+Midland	217	0	217	Oscoda County	8264	263	Oscoda	36	44	6
+Missaukee	"1,257"	2	"1,259"	Isabella County	71282	177	Isabella	207	29	6
+Monroe	556	1	557	Cheboygan County	25401	219	Cheboygan	91	36	6
+Montcalm	160	0	160	Baraga County	8503	188	Baraga	26	31	6
+Montmorency	426	0	426	Leelanau County	21765	196	Leelanau	69	32	6
+Muskegon	"3,816"	5	"3,821"	St. Clair County	159587	239	Saint Clair	609	38	6
+Newaygo	"25,364"	57	"25,421"	Macomb County	867730	293	Macomb	"3,963"	46	6
+Oakland	"4,668"	8	"4,676"	Monroe County	149208	313	Monroe	724	49	6
+Oceana	"1,054"	2	"1,056"	Gratiot County	41202	256	Gratiot	163	40	6
+Ogemaw	989	0	989	Oceana County	26027	380	Oceana	152	58	7
+Ontonagon	"4,897"	3	"4,900"	Saginaw County	192326	255	Saginaw	747	39	7
+Osceola	"1,443"	3	"1,446"	Ionia County	64232	225	Ionia	220	34	7
+Oscoda	"2,808"	2	"2,810"	Bay County	104747	268	Bay	426	41	7
+Otsego	"4,621"	6	"4,627"	Muskegon County	173408	267	Muskegon	688	40	7
+Ottawa	"1,567"	3	"1,570"	Midland County	83462	188	Midland	233	28	7
+Presque Isle	"31,221"	80	"31,301"	Oakland County	1243970	252	Oakland	"4,595"	37	7
+Roscommon	880	0	880	Mecosta County	43221	204	Mecosta	129	30	7
+Saginaw	"10,573"	9	"10,582"	Kent County	642173	165	Kent	"1,497"	23	7
+Saint Clair	"43,810"	49	"43,859"	Wayne County	1749366	251	Wayne	"6,055"	35	7
+Saint Joseph	864	1	865	Iosco County	25327	342	Iosco	119	47	7
+Sanilac	806	0	806	Emmet County	33182	243	Emmet	110	33	7
+Schoolcraft	735	1	736	Alpena County	28704	256	Alpena	100	35	7
+Shiawassee	946	0	946	Mason County	28876	328	Mason	127	44	7
+Tuscola	"4,164"	6	"4,170"	Ottawa County	282250	148	Ottawa	540	19	8
+Van Buren	"10,978"	10	"10,988"	Washtenaw County	364709	301	Washtenaw	"1,407"	39	8
+Washtenaw	60	0	60	Keweenaw County	2199	273	Keweenaw	7	32	9
+Wayne	559	0	559	Huron County	31481	178	Huron	63	20	9
+Wexford	7	0	7	Unassigned			Una	1		
+										
+										
+										
+										
+	2									
