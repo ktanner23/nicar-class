@@ -7,3 +7,6 @@ This is a test repository created during the **2018 NICAR** conference.
 
 
 What is going on here in this branch?
+
+
+Here are **some** recommended changes!
